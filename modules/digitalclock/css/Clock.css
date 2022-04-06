@@ -1,0 +1,16 @@
+/* A CSS stylesheet for the clock */
+#clock {
+    /* Styles apply to element with id="clock" */
+    font: bold 24px sans-serif;
+    /* set clock data color */
+    color: rgb(255, 255, 255);
+    /* Use a big bold font */
+    background: rgb(29, 29, 31);
+    /* on a light bluish-gray background. */
+    padding: 15px;
+    /* Surround it with some space */
+    border: solid black 2px;
+    /* and a solid black border */
+    border-radius: 10px;
+    /* with rounded corners. */
+}
