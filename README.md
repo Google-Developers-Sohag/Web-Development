@@ -20,5 +20,5 @@
 - Read files from the hard disk -- except for cookies.
 - Close windows other than those the JavaScript applications opened.
 - Write server-side applications, called `Common Gateway interface (CGI) applications`,
-which must be written using languages such as `Java`, `PHP`, `Perl` and `ASP.
+which must be written using languages such as `Java`, `PHP`, `Perl` and `ASP`.
 - Read information from a web page that resides on a domain different from the domian where the javascript code resides.
