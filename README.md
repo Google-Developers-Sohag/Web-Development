@@ -25,4 +25,4 @@ which must be written using languages such as `Java`, `PHP`, `Perl` and `ASP`.
 
 We will be using these resources to tackle down javascript : 
 |-------|------|-------|
-| <img src="https://user-images.githubusercontent.com/60224159/162418457-0ff8f39c-8c13-4040-8795-289a47233628.png" width="200"> | <img src="https://user-images.githubusercontent.com/60224159/162418628-894a3c88-1b5c-48eb-aa59-94ac164ea82a.png" width="200"> | <img src="https://user-images.githubusercontent.com/60224159/162418795-0d4c0f28-edfd-4d14-9aa3-20c07ccd1689.png" width="200">
+| <img src="https://user-images.githubusercontent.com/60224159/162418457-0ff8f39c-8c13-4040-8795-289a47233628.png" width="200"> | <img src="https://user-images.githubusercontent.com/60224159/162418628-894a3c88-1b5c-48eb-aa59-94ac164ea82a.png" width="200"> | <img src="https://userimages.githubusercontent.com/60224159/162418795-0d4c0f28-edfd-4d14-9aa3-20c07ccd1689.png" width="200"> 
