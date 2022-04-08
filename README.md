@@ -22,3 +22,8 @@
 - Write server-side applications, called `Common Gateway interface (CGI) applications`,
 which must be written using languages such as `Java`, `PHP`, `Perl` and `ASP`.
 - Read information from a web page that resides on a domain different from the domian where the javascript code resides.
+
+We will be using these resources to tackle down javascript : 
+
+![image](https://user-images.githubusercontent.com/60224159/162418457-0ff8f39c-8c13-4040-8795-289a47233628.png) | ![image](https://user-images.githubusercontent.com/60224159/162418628-894a3c88-1b5c-48eb-aa59-94ac164ea82a.png) | ![image](https://user-images.githubusercontent.com/60224159/162418795-0d4c0f28-edfd-4d14-9aa3-20c07ccd1689.png)
+
