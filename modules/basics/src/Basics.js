@@ -34,8 +34,15 @@ class SingleTon {
         return this.instance;
     }
     
-     showProjectDialog() {
+    showProjectDialog() {
         return alert(this.projectName);
+    }
+
+    setProjectName(projectName) {
+        this.projectName = projectName;
+    }
+    getProjectName() {
+        return this.projectName;
     }
 }
 
@@ -68,15 +75,18 @@ class Process {
         var stamp = StampBuilder.STAMP_UNLOCK;
         var stampBuilder = new StampBuilder(stamp);
 
-        var singleTon = SingleTon.getDefaultInstance(stampBuilder, screenX, screenY, "basics");
+        const singleTon = SingleTon.getDefaultInstance(stampBuilder, screenX, screenY, "Basics");
         if (singleTon instanceof SingleTon) {            
             singleTon.showProjectDialog();
+            // change the singleton property m 
+            singleTon.setProjectName("Hello 2");
         }
 
-        var singleTon2 = SingleTon.getDefaultInstance(stampBuilder, screenX, screenY, "basicsw");
+        const singleTon2 = SingleTon.getDefaultInstance(stampBuilder, screenX, screenY, "Hello World");
         if (singleTon2 instanceof SingleTon) {
             singleTon2.showProjectDialog();
         }
+
         return 0;
     }
 }
