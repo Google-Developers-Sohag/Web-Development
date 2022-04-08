@@ -69,7 +69,7 @@ class Process {
         var stampBuilder = new StampBuilder(stamp);
 
         var singleTon = SingleTon.getDefaultInstance(stampBuilder, screenX, screenY, "basics");
-        if (singleTon instanceof SingleTon) {
+        if (singleTon instanceof SingleTon) {            
             singleTon.showProjectDialog();
         }
 
