@@ -45,7 +45,7 @@ Copy this code into `index.html` and run into a browser :
 <!-- The root element -->
 <head>
     <!-- Title, scripts & styles can go here -->
-    <title>Digital Clock</title>
+    <title>Spicing Up</title>
 </head>
 <body>
     <!-- The body holds the content of the document. -->
